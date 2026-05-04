@@ -1,4 +1,4 @@
-# 📊 Escola Analytics — Pipeline de Dados Educacionais
+# 📊 Escola Analytics  Pipeline de Dados Educacionais
 
 > Pipeline completo de dados escolares: das planilhas por turma até um dashboard interativo no Power BI, passando pelo Google BigQuery como camada de centralização e modelagem.
 
